@@ -1,4 +1,4 @@
-package csi403;
+package InsertionSort;
 
 
 // Import required java libraries
